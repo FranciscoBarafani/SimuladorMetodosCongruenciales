@@ -1,0 +1,31 @@
+.chi-cuadrado {
+  display: flex;
+  align-items: row;
+  margin: 50px;
+  height: 100vh;
+  width: 100%;
+
+  .dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .tabla {
+      margin-top: 30px;
+      width: 400px;
+      height: auto;
+      margin-left: 100px;
+      align-items: center;
+      justify-content: c;
+    }
+  }
+
+  .form {
+    width: 300px;
+    height: auto;
+    margin-left: 100px;
+
+    .ant-btn {
+      margin-left: 10px;
+    }
+  }
+}
