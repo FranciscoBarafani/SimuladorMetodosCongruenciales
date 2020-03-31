@@ -2,4 +2,4 @@ Este es un proyecto para la clase de Simulación de la carrera Ingeniería en Si
 la Facultad Tecnológica Nacional.
 
 El enlace a la pagina para probar es: 
-  https://app.netlify.com/sites/mystifying-elion-536c59/overview
+  https://mystifying-elion-536c59.netlify.com/
